@@ -1,0 +1,21 @@
+.div_margenes{
+    margin: 10px 50px 10px 50px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #DDD;
+}
+.titulo{
+    /*padding: 20px 50px 20px 50px;*/
+    font-family: "Comic Sans",cursive;
+    font-size: 30px;
+}
+.imagen_cabecera{
+    width:100%; 
+    height: 30%;
+}
+.div_tabla{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    width: 60%;
+}
